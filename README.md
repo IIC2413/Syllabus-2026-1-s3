@@ -36,17 +36,17 @@ Nombre              | Sección | Email
 
 Nombre           | Rol        | Email
 -----------------|---------   | ----------------
-                 |Coordinador |  
-                 |Bienestar |
-                 |Corrector - Cátedra |    
-                 |Corrector - Cátedra |    
-                 |Corrector - Cátedra |    
-                 |Corrector - Cátedra |    
-                 |Corrector - Cátedra |    
-                 |Corrector - Cátedra |    
-                 |Corrector - Cátedra |    
-                 |Corrector - Cátedra |                     
-
+Ignacio Gutiérrez                 |Coordinador |  igufu.cs@estudiante.uc.cl
+Connan Díaz                 |Bienestar | ccdiaz6@uc.cl
+Nicolás Araya                 |Corrector - Cátedra |    narayc@uc.cl
+Ignacio Garrido                 |Corrector - Cátedra |    ibgarrido@uc.cl
+Felipe Motzfeld                 |Corrector - Cátedra |    felipe.mm@estudiante.uc.cl
+Eduardo Nazal                 |Corrector - Cátedra |    eduardo.nazal@uc.cl
+Tomás Oliva                 |Corrector - Cátedra |    tomas.oliva@uc.cl
+Álvaro Panozo                 |Corrector - Cátedra |    lvaro.panozo@estudiante.uc.cl
+Aníbal Tebes                 |Corrector - Cátedra |    atebes@estudiante.uc.cl
+Agustina Villanueva                 |Corrector - Cátedra |   agustina.villanueva@uc.cl                  
+Lucas Yaconi   |   Corrector - Cátedra |  lyaconi@uc.cl
 
 
 ## Foro
